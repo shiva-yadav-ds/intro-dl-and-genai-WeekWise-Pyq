@@ -1,0 +1,196 @@
+{
+  "weeks": [
+    {
+      "id": 1,
+      "topic": "Artificial Neural Networks (Theory)",
+      "count": 19,
+      "summary": "19 source questions mapped to Week 1, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "Artificial neurons and network layers",
+        "Activation and loss functions",
+        "Forward propagation and underlying derivatives"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 2,
+      "topic": "Artificial Neural Networks (Practice)",
+      "count": 42,
+      "summary": "42 source questions mapped to Week 2, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "Neural-network and tensor implementation",
+        "Training, autograd and device handling",
+        "Optimization, momentum and adaptive learning rates"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 3,
+      "topic": "Modeling Vision: CNN (Theory)",
+      "count": 19,
+      "summary": "19 source questions mapped to Week 3, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "Convolution and pooling",
+        "CNN architectures and receptive fields",
+        "Output dimensions and parameter counts"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "Modeling Vision: CNN (Practice)",
+      "count": 17,
+      "summary": "17 source questions mapped to Week 4, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "CNN implementation and classification",
+        "MNIST/FashionMNIST and image preprocessing",
+        "Data augmentation and transfer learning"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 5,
+      "topic": "Modeling Sequential Data (Theory)",
+      "count": 7,
+      "summary": "7 source questions mapped to Week 5, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "RNN, GRU and LSTM architecture",
+        "Sequence recurrence and BPTT",
+        "Sequence encoder-decoder principles"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 6,
+      "topic": "Modeling Sequential Data (Practice)",
+      "count": 16,
+      "summary": "16 source questions mapped to Week 6, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "Sequence-model implementation",
+        "Text generation and time-series prediction",
+        "Beam search, BLEU and perplexity"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "Generative AI for Vision: VAEs and GANs",
+      "count": 3,
+      "summary": "3 source questions mapped to Week 7, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "Autoencoders and variational modeling",
+        "GAN architecture and equilibrium",
+        "Distribution divergence"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "Generative AI for Vision: Diffusion Models",
+      "count": 1,
+      "summary": "1 source questions mapped to Week 8, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "Diffusion probabilistic models",
+        "Forward noising",
+        "Training and inference"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "Generative AI for Vision (Practice)",
+      "count": 7,
+      "summary": "7 source questions mapped to Week 9, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "GAN implementation and training diagnostics",
+        "Image generation",
+        "Generative-model evaluation"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "Large Language Models: Transformer Architecture",
+      "count": 18,
+      "summary": "18 source questions mapped to Week 10, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "Embeddings and tokenization",
+        "Attention, causal masks and positional encoding",
+        "Transformer residuals and normalization"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 11,
+      "topic": "Large Language Models: Encoder, Decoder and Encoder-Decoder Models",
+      "count": 1,
+      "summary": "1 source questions mapped to Week 11, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "BERT, GPT and encoder-decoder model families",
+        "Text generation and translation",
+        "Fine-tuning, PEFT and LoRA"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    },
+    {
+      "id": 12,
+      "topic": "Large Language Models (Practice)",
+      "count": 7,
+      "summary": "7 source questions mapped to Week 12, with complete statements, options, formulas, diagrams and any required shared context. Coverage reflects the supplied papers; not every syllabus subtopic has an available question.",
+      "topics": [
+        "Prompting and prompt fine-tuning",
+        "Applied LLM pipelines",
+        "RAG retrieval, chunking and document ingestion"
+      ],
+      "guide": [
+        "Read the complete shared setup and retain the framework conventions stated in the question.",
+        "Check tensor dimensions, biases, activation functions and training/inference assumptions before calculating.",
+        "Attempt the question before consulting its supplied answer key."
+      ]
+    }
+  ]
+}
